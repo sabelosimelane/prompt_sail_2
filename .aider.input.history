@@ -1,0 +1,45 @@
+
+# 2025-01-24 09:50:06.590485
++Y
+
+# 2025-01-24 09:52:24.116701
++https://github.com/sabelosimelane/prompt_sail Help me copy the read MD for this project as I have cloned it, I've forked it actually and I'm writing a better version. So just add maybe on top that this change to so include everything that's there but also add that this is a improved version using a Java back end and it's going to be maintained a bit more because the older version, the older repo was not being taken care of. But my pull requests were not being accepted, right there in a polite way though, but just making sure that this one appears to be a better version and it will work for most people.
+
+# 2025-01-24 09:52:25.656889
++Y
+
+# 2025-01-24 09:53:04.374390
++/exit
+
+# 2025-01-24 09:53:27.659657
++https://github.com/sabelosimelane/prompt_sail Help me copy the read MD for this project as I have cloned it, I've forked it actually and I'm writing a better version. So just add maybe on top that this change to so include everything that's there but also add that this is a improved version using a Java back end and it's going to be maintained a bit more because the older version, the older repo was not being taken care of. But my pull requests were not being accepted, right there in a polite way though, but just making sure that this one appears to be a better version and it will work for most people.
+
+# 2025-01-24 09:53:29.020818
++Y
+
+# 2025-01-24 09:55:10.333681
++/add README.md
+
+# 2025-01-24 09:55:32.816830
++please effect the changes to the one at the root
+
+# 2025-01-24 09:56:27.356865
++/load
+
+# 2025-01-24 09:56:43.662543
++/load README.md
+
+# 2025-01-24 09:56:48.298037
++please effect the changes to the one at the root
+
+# 2025-01-24 09:57:25.780506
++/drop
+
+# 2025-01-24 09:58:28.104276
++/add backend/README.md
+
+# 2025-01-24 09:58:45.173060
++just do it in the backend one I will copy ot across
+
+# 2025-01-24 09:59:44.303973
++We still want to explain what the project is about, right? So I was hoping that you would have what you wrote here as a preface and then still add everything that's there. I will then tweak it as I make changes to align.
